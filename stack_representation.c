@@ -1,4 +1,3 @@
-/* Just getting familiar with implementing stack with arrays. */
 
 #include <stdio.h>
 #include <stdlib.h>
